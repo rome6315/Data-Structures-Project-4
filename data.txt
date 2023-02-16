@@ -1,0 +1,33 @@
+102 Fundamentals of IT and Computing
+110 C++ Programming I
+111 C++ Programming II
+170 Discrete Structures
+171 Introduction to Computability
+205 Website Design and Programming
+214 Introduction to Mobile Application Development
+221 Data Structures
+225 Cybersecurity
+226 Mobile Forensics
+250 User Interface Design
+255 Introduction to Artificial Intelligence
+265 Information Systems Management
+270 Introduction to Numerical Computation
+292 Engineering and Computer Ethics
+305 Web Technologies
+310 Programming Languages
+312 Introduction to Algorithms
+315 Server-Side Programming
+321 Data Communications and Computer Networks
+322 Advanced Networking
+325 Advanced Topics in Cybersecurity
+330 Operating Systems
+335 Computer Organization
+350 Databse Concepts and Information Structures
+351 Information Systems Analysis and Design
+355 Software Engineering
+357 Computing Science Project I
+358 Computing Science Project II
+365 Computer Game Design and Development
+366 Advanced Computer Game Design and Development
+367 Multiplayer Networked Games
+375 Applied Cryptography
